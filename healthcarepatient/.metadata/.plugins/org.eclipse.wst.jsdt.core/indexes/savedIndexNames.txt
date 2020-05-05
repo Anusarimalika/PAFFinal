@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/binuri/Desktop/healthcarepatient/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2863096136.index
+1690908697.index
+1784365542.index
+1716341196.index
+2947711230.index
+680031011.index
+625654522.index
+1337605836.index

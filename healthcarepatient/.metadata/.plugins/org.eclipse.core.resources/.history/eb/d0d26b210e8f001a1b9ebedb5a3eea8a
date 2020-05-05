@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Health_Care_Patient">
+        <property name="context-root" value="Health_Care_Patient"/>
+    </wb-module>
+</project-modules>

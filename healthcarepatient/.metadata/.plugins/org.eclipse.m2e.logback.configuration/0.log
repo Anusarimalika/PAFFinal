@@ -1,0 +1,126 @@
+2020-05-06 01:51:20,724 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-06 01:54:03,490 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-06 01:54:51,065 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.HealthCare:HealthCare:0.0.1-SNAPSHOT @ /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/pom.xml.
+2020-05-06 01:54:52,776 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:54:52,778 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:54:52,781 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:54:52,782 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:54:52,840 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Health_Care_Patient/src
+2020-05-06 01:54:52,843 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Health_Care_Patient/src/test/java because it overlaps with /Health_Care_Patient/src
+2020-05-06 01:54:54,176 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:54:54,179 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:54:54,181 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:54:54,182 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:54:54,919 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-06 01:54:56,026 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.HealthCare:HealthCare:0.0.1-SNAPSHOT @ /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/pom.xml.
+2020-05-06 01:54:57,186 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:54:57,188 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:54:57,191 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:54:57,191 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:54:57,192 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Health_Care_Patient
+2020-05-06 01:54:57,194 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Health_Care_Patient
+2020-05-06 01:54:57,228 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:54:57,248 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Health_Care_Patient/src
+2020-05-06 01:54:57,249 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Health_Care_Patient/src/test/java because it overlaps with /Health_Care_Patient/src
+2020-05-06 01:54:58,139 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Health_Care_Patient
+2020-05-06 01:54:58,175 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-05-06 01:54:58,398 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:54:58,399 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:54:58,401 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:54:58,402 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:54:58,403 [Worker-11: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Health_Care_Patient
+2020-05-06 01:54:58,403 [Worker-11: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Health_Care_Patient
+2020-05-06 01:54:58,420 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:55:24,087 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-06 01:55:24,553 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.HealthCare:HealthCare:0.0.1-SNAPSHOT @ /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/pom.xml.
+2020-05-06 01:55:24,959 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Health_Care_Patient/src
+2020-05-06 01:55:24,959 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Health_Care_Patient/src/test/java because it overlaps with /Health_Care_Patient/src
+2020-05-06 01:55:25,578 [Worker-0: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Health_Care_Patient
+2020-05-06 01:55:25,583 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-06 01:55:25,890 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:55:25,891 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:55:25,894 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:55:25,895 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:55:25,896 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Health_Care_Patient
+2020-05-06 01:55:25,896 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Health_Care_Patient
+2020-05-06 01:55:25,907 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:55:49,975 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:55:49,976 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:55:49,978 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:55:49,979 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:56:30,003 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:56:30,004 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:56:30,006 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:56:30,007 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:56:35,710 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:56:35,711 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:56:35,713 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:56:35,714 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:56:57,365 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:56:57,366 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:56:57,368 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:56:57,369 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:57:19,313 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:57:19,315 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:57:19,317 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:57:19,318 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:57:20,347 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:57:20,348 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:57:20,350 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:57:20,350 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:58:30,144 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:58:30,148 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:58:30,150 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:58:30,151 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:59:14,104 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:59:14,105 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:59:14,107 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:59:14,108 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 01:59:30,632 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:59:30,633 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 01:59:30,635 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 01:59:30,635 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:00:21,271 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:00:21,272 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:00:21,274 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:00:21,275 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:01:50,294 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:01:50,298 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:01:50,300 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:01:50,301 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:11:59,607 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:11:59,611 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:11:59,616 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:11:59,617 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:14:12,839 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:14:12,846 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:14:12,850 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:14:12,851 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:14:27,190 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:14:27,196 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:14:27,199 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:14:27,200 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:14:37,020 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:14:37,021 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:14:37,024 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:14:37,025 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:15:26,058 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:15:26,059 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:15:26,081 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:15:26,083 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:15:59,157 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:15:59,158 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:15:59,160 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:15:59,162 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:16:10,503 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:16:10,505 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:16:10,506 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:16:10,507 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:17:44,453 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:17:44,464 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:17:44,468 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:17:44,469 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
+2020-05-06 02:18:26,725 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:18:26,726 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/main/resources
+2020-05-06 02:18:26,728 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 02:18:26,728 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/binuri/Desktop/healthcarepatient/Health_Care_Patient/src/test/resources
